@@ -1,1 +1,1 @@
-This project contains scripts for learning basic shell commands.
+This repository contains shell projects for Holberton School. this is a test message for testinggg
