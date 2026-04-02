@@ -1,2 +1,1 @@
-# holbertonschool-shell
-Holberton shell tasks
+This repository contains shell projects for Holberton School.
