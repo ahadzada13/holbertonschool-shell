@@ -7,3 +7,4 @@ Task5- Lists all local and environment variables, and functions.
 Task6- Creates a local variable named BEST with the value School.
 Task7- Creates a global variable named BEST with the value School.
 Task8- Prints the result of adding 128 to the TRUEKNOWLEDGE variable.
+Task9- Prints the result of POWER divided by DIVIDE.
