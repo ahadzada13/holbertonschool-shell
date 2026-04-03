@@ -13,3 +13,4 @@ Task12- Creates a directory called my-dir with permissions 751.
 Task13- Changes the group owner to school for the file hello.
 Task14- Changes the owner to vincent and the group owner to staff for all files and directories.
 Task15- Changes the owner and group of the symbolic link _hello.
+Task16- Changes the owner of hello to vincent only if it is owned by guillaume.
