@@ -5,3 +5,4 @@ Task3- Counts the number of directories in the PATH.
 Task4- List environment variables
 Task5- Lists all local and environment variables, and functions.
 Task6- Creates a local variable named BEST with the value School.
+Task7- Creates a global variable named BEST with the value School.
