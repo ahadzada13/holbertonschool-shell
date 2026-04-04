@@ -10,3 +10,10 @@ Task7- Move the file `betty` from `/tmp/` to `/tmp/my_first_directory`.
 Task8- Delete `betty` from `/tmp/my_first_directory`.
 Task9- Delete `my_first_directory` from the `/tmp/` directory.
 Task10- Changes the working directory to the previous
+Task11- List multiple directories in long format
+Task12-
+Task13-
+Task14-
+Task15-
+Task16-
+Task17- 
