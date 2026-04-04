@@ -1,1 +1,3 @@
-This repository contains shell projects for Holberton School. this is a test message for testinggg pleaseee be correct
+This repository contains shell projects for Holberton School.
+Task0- print working directory
+Task1- List current Direcory 
